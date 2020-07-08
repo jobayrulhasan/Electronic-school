@@ -1,12 +1,36 @@
+body{
+    font-family: 'Bree Serif', serif;
+    font-family: 'Heebo', sans-serif;
+}
 .habib img{
-    width: 250px;
-    height: 100px;
+    width: 240px;
+    height: 90px;
 }
 .hasan{
-    width: 140px;
-    height: 48px;
-    border-radius: .5em;
+    width: 100px;
+    height: 40px;
+    border-radius:2em;
 }
 .anas li a{
     color: black;
+}
+.container{
+    background-color:lightcyan;
+   max-width: 650em;
+ 
+}
+.haroon{
+    margin-top: 100px;
+    width: 130px;
+    height: 40px;
+    border-radius:2em;
+}
+.abrar{
+    color:green;
+}
+.arafin{
+    color:lightslategrey;
+}
+.haroon button{
+    flex: auto;
 }
