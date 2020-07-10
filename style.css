@@ -1,6 +1,7 @@
 body{
     font-family: 'Bree Serif', serif;
     font-family: 'Heebo', sans-serif;
+    background-color: #f1eeee;
 }
 .habib img{
     width: 240px;
@@ -14,12 +15,16 @@ body{
 .anas li a{
     color: black;
 }
-.container{
-    background-color:lightcyan;
-   max-width: 650em;
+
+.school{
+    margin-top:100px;
+}
+.container-anas{
+    margin-top: 150px;
+    background-color: none;
 }
 .haroon{
-    margin-top: 100px;
+    margin-top: 120px;
     width: 130px;
     height: 40px;
     border-radius:10px;
@@ -35,4 +40,59 @@ body{
 .card img{
     width: 100px;
     height: 100px;
+}
+.hiron{
+    width: 130px;
+    height: 40px;
+    border-radius:10px;
+}
+.hasan-haroon{
+    height: 25em;
+}
+.hasan-haroon img{
+    width: 250px;
+    height: 200px;
+}
+.mamu h1{
+    text-align: center;
+}
+.haroon-habib img{
+    width: 200px;
+
+}
+.testimonial img{
+    width: 150px;
+}
+.poor{
+    width: 550px;
+    margin-left: 50px;
+}
+.paper h2{
+    text-align:center ;
+}
+#abrar{
+    margin-top:110px;
+}
+#hanif{
+    margin-top:100px;
+}
+footer{
+    background-color: black;
+    position: relative;
+}
+.footer-section ul li{
+    list-style: none;
+    color: white;
+    margin: 0;
+}
+.courses-li{
+    
+    font-size: 22px;
+    font-weight: 700;
+}
+.footer-p{
+    color: white;
+}
+.copyright{
+    text-align: center;
 }
